@@ -1,0 +1,54 @@
+Formato e Navegação
+Verifique se o formato do curso (por tópicos, semanal, etc.) está de acordo com a estrutura pedagógica planejada. Para além disso, teste todas as opções possíveis. De modo geral, a experiência foi...?
+
+Formato e Navegação (Justificativa)
+Observações / Ações Necessárias  
+*
+
+
+Plano de Ensino / Apresentação
+Clique no arquivo/página do Plano de Ensino e confirme se os links, cronograma e critérios de avaliação estão atualizados. Para além disso, tente atualizar o arquivo, inserindo um novo arquivo no local.
+
+Arquivos em PDF/Slides  
+Abra 2 a 3 arquivos em PDF/PPT inseridos nas seções para testar o download/visualização no navegador.  
+
+Links Externos
+Clique em todos os links para páginas web, artigos externos ou vídeos do YouTube e confirme se estão abrindo corretamente (prefira abrir em nova janela).  
+
+Rótulos e Organização  
+Verifique se os textos explicativos, cabeçalhos de seções e avisos visuais estão claros e organizados hierarquicamente.  
+
+Tarefa (Envio de Arquivo/Texto)  
+Acesse a atividade como "Estudante". Verifique se a instrução, a data limite de entrega e o limite de tamanho do arquivo estão visíveis e corretos. Faça um envio de teste, se possível.
+
+Questionário (Quiz)
+• Alterne para o papel de estudante e realize uma tentativa completa.
+
+• Verifique se as perguntas e alternativas estão corretas.
+
+• Confira o tempo limite e o número de tentativas permitidas.
+
+• Valide a correção automática ao finalizar a tentativa.
+
+Configuração do Livro de Notas 
+Acesse Notas ➔ Configuração do Livro de Notas. Verifique se todas as atividades avaliativas estão listadas e com os pesos/pontuações corretos (soma total = 10 ou 100).  
+
+Categorias e Médias  
+Se houver categorias (ex: Unidade 1, Provas, Trabalhos), verifique se o cálculo da média (soma, média ponderada, etc.) corresponde ao plano de curso.  
+
+Utilize o vídeo a seguir para orientá-lo sobre a configuração do Quadro de Notas: https://www.youtube.com/watch?v=C3faCO1t56c
+
+Fórum de Avisos
+Publique uma mensagem de boas-vindas no Fórum de Avisos e confirme se o e-mail/notificação foi gerado.
+*
+Ok
+
+
+  Restrições de Acesso e Conclusão  
+Se utilizou restrição de acesso (ex: "Liberar Aula 2 somente após concluir Aula 1"), faça o teste em papel de Estudante para validar o bloqueio/desbloqueio.
+
+Feedback geral
+Observações / Ações Necessárias  
+
+
+

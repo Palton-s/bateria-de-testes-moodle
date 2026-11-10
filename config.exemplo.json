@@ -1,0 +1,79 @@
+{
+  "_ajuda": "4 ambientes: 2 novos (aprender3, aprender2) e 2 antigos (preencher). Cada um usa seu arquivo de credenciais (formato: url/usuario/senha + seção 'aluno:'). 'ativo': true inclui o ambiente na execução.",
+  "ambientes": {
+    "novo_aprender3": {
+      "ativo": true,
+      "url": "https://SEU-MOODLE-1.exemplo.com.br",
+      "curso_id": 0,
+      "professor": {
+        "usuario": "",
+        "senha": "",
+        "_obs": "deixe vazio para ler de 'dados de acesso.txt'"
+      },
+      "aluno": {
+        "usuario": "",
+        "senha": ""
+      },
+      "arquivo_credenciais": "dados de acesso.txt"
+    },
+    "novo_aprender2": {
+      "ativo": true,
+      "url": "https://SEU-MOODLE-2.exemplo.com.br",
+      "curso_id": 0,
+      "arquivo_credenciais": "dados de acesso 2.txt",
+      "professor": {
+        "usuario": "",
+        "senha": ""
+      },
+      "aluno": {
+        "usuario": "",
+        "senha": ""
+      }
+    },
+    "antigo_1": {
+      "ativo": false,
+      "url": "https://URL-DO-MOODLE-ANTIGO",
+      "curso_id": 0,
+      "arquivo_credenciais": "dados de acesso X.txt",
+      "professor": {
+        "usuario": "",
+        "senha": ""
+      },
+      "aluno": {
+        "usuario": "",
+        "senha": ""
+      }
+    },
+    "antigo_2": {
+      "ativo": false,
+      "url": "https://URL-DO-MOODLE-ANTIGO",
+      "curso_id": 0,
+      "arquivo_credenciais": "dados de acesso X.txt",
+      "professor": {
+        "usuario": "",
+        "senha": ""
+      },
+      "aluno": {
+        "usuario": "",
+        "senha": ""
+      }
+    }
+  },
+  "opcoes": {
+    "navegador_visivel": false,
+    "prefixo": "[AUTO]",
+    "permitir_alteracoes": true,
+    "testar_todos_formatos": true,
+    "formatos_ignorar": [
+      "singleactivity"
+    ],
+    "papel_estudante": "Estudante",
+    "nota_total_esperada": [
+      10,
+      100
+    ],
+    "agregacao_esperada": "Soma das notas (Natural)",
+    "tempo_lento_segundos": 5,
+    "max_links_externos": 40
+  }
+}

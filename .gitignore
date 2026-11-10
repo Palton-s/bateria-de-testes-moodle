@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Saídas geradas pela execução
+resultados/
+arquivos_teste/
+
+# Dados sigilosos (use as versões .exemplo como modelo)
+config.json
+dados de acesso*.txt
+!dados de acesso.exemplo.txt
+
+# IDE / SO
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store

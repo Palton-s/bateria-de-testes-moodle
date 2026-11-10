@@ -1,0 +1,8 @@
+url: https://SEU-MOODLE.exemplo.com.br/
+usuario: SEU_USUARIO_PROFESSOR
+senha: SUA_SENHA
+
+
+aluno:
+usuário: SEU_USUARIO_ALUNO
+senha: SUA_SENHA
